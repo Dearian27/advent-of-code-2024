@@ -1039,3 +1039,4 @@ const execute = () => {
 };
 
 console.log(execute());
+export {};
