@@ -5,7 +5,8 @@
   "scripts": {
     "day2": "tsc ./days/day2/part1.ts --outFile ./days/day2/part1.js -w",
     "day3": "tsc ./days/day3/part1.ts --outFile ./days/day3/part1.js -w",
-    "day4": "tsc ./days/day4/part1.ts --outFile ./days/day4/part1.js -w"
+    "day4": "tsc ./days/day4/part1.ts --outFile ./days/day4/part1.js -w",
+    "day7": "tsc ./days/day7/part1.ts --outFile ./days/day7/part1.js -w"
   },
   "author": "",
   "license": "ISC",

@@ -138,7 +138,6 @@
 // XMAMSXSAMMSSMMMSMAMMSMAMAMAAXSXMASMMAMXAMMSAAAAMASMMAASAMSSSMMSAMAAAAASASAXSASXMSSSMSAXXMMSMMMXSAAXMASAMMMMAMAMAXMASMAMAMMSMMMSAMXAMXMAAAAAA
 // XMASAXMASAAXAAAASASAAMAMASMSMMAMASAMASMAMXMMMMMSAMXMMMSXMAAAMAMAMMMMMMMAMAMSASMMAAAASMSAMAAAAASAMXMASMMMAXMSMSMMMXMASAAAMXAMXAMMSAMXSMSMSMSX
 // SSMSAXSMMMSSSMSMSMSXSSMSASMMMSMMMSXMAXXAMMSAMXXMMSXXSAMXMMSMMASMMSAMXXMMMXMMAMMMMSMMMXSAMSSSMSSSXAASXXXSXSAXAMXSSXMASXSMMSASMXSASXMASMXXMAMA`;
-
 // const input = inputString.split("\n").map((line) => line.split(""));
 // console.log(input);
 // function countOccurrences(grid, word) {
@@ -146,7 +145,6 @@
 //   const cols = grid[0].length;
 //   const wordLength = word.length;
 //   let count = 0;
-
 //   // Helper to check if the word exists starting from a specific cell in a specific direction
 //   function checkDirection(x, y, dx, dy) {
 //     for (let i = 0; i < wordLength; i++) {
@@ -164,7 +162,6 @@
 //     }
 //     return true;
 //   }
-
 //   // Iterate over all cells in the grid
 //   for (let i = 0; i < rows; i++) {
 //     for (let j = 0; j < cols; j++) {
@@ -186,10 +183,8 @@
 //       }
 //     }
 //   }
-
 //   return count;
 // }
-
 // const word = "XMAS";
 // console.log(countOccurrences(input, word));
 // export {};
