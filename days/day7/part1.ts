@@ -29,3 +29,4 @@ console.log(input);
 const expression = "10*20+2";
 const result = eval(expression);
 console.log(result); // Виведе 202
+export {};
